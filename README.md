@@ -1,5 +1,9 @@
-## Hi there 👋
+## About me
+My name's Freddy. A 32 year old college dropout currently enrolled once again at Hogeschool PXL. Working on improving myself and getting a degree to get a better career and provide a better life for my wife and son.
+Currently working on several small school projects. 
+Always looking for more learning opportunities and improvement.
 
+Reach me on my school e-mail: 12402449@student.pxl.be
 <!--
 **FJanssen92/FJanssen92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
